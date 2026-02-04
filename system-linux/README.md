@@ -6,7 +6,7 @@ This section groups hands-on projects related to Linux system administration, se
 
 ## 🔗 Repositories
 
-- 🔐 **Linux Security Hardening**
+  🔐 **Linux Security Hardening**
   👉 [(https://github.com/igor-it-portfolio/sysadmin-lab-01-linux-security)](https://github.com/igor-it-portfolio/sysadmin-lab-01-linux-security)
 
   🌐 Secure Web Server with HTTPS
