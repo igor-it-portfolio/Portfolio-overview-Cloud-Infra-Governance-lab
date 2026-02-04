@@ -3,6 +3,9 @@
 # Cloud, Infrastructure & Data Governance Portfolio
 
 This repository works as a central hub for my technical projects across system administration, cloud infrastructure and data governance.
+⚠️ Note:
+Each folder contains links to independent repositories with full implementation and documentation.
+
 
 ## 📂 Project Areas
 
