@@ -12,6 +12,9 @@ This section groups hands-on projects related to Linux system administration, se
   🌐 Secure Web Server with HTTPS
   https://github.com/igor-it-portfolio/sysadmin-lab-02-webserver-https
 
+  - 💾 Backup Automation (Linux & Cloud)
+  https://github.com/igor-it-portfolio/sysadmin-lab-03-backup-automation
+
   ⚙️ SysAdmin Automation Scripts
   https://github.com/igor-it-portfolio/sysadmin-lab-04-sysadmin-scripts
 
