@@ -4,7 +4,7 @@ Hands-on cloud projects focused on infrastructure, security and operational best
 
 ## 🔗 Repositories
 
-  💾 Backup Automation (Linux & Cloud)
+- 💾 Backup Automation (Linux & Cloud)
   https://github.com/igor-it-portfolio/sysadmin-lab-03-backup-automation
   
 - ☁️ **AWS EC2 Secure Environment**
