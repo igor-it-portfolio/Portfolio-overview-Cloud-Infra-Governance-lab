@@ -7,13 +7,13 @@ This section groups hands-on projects related to Linux system administration, se
 ## 🔗 Repositories
 
   🔐 **Linux Security Hardening**
-  👉 [(https://github.com/igor-it-portfolio/sysadmin-lab-01-linux-security)](https://github.com/igor-it-portfolio/sysadmin-lab-01-linux-security)
+  👉 https://github.com/igor-it-portfolio/sysadmin-lab-linux-security
 
   🛡️ **ShieldLinux: Hardening Framework & Secure Deploy**
   👉 https://github.com/igor-it-portfolio/shieldlinux-hardening
 
   🌐 **Secure Web Server with HTTPS**
-  👉 https://github.com/igor-it-portfolio/sysadmin-lab-02-webserver-https
+  👉 https://github.com/igor-it-portfolio/sysadmin-lab-webserver-https
   
   🌐 **Runbook de Resposta a Incidentes Web**
   👉 https://github.com/igor-it-portfolio/Runbook-Incidentes-WEB.md
