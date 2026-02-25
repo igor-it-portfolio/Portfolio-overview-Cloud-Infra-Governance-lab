@@ -18,7 +18,7 @@ This section groups hands-on projects related to Linux system administration, se
   🌐 **Web Incident Response Runbook**
   👉 https://github.com/igor-it-portfolio/Runbook-Incidentes-WEB.md
 
-  💾 **Backup Automation (Linux & Cloud)**
+  💾 **Backup Automation & Retention Policy (Linux & Cloud)**
   👉 https://github.com/igor-it-portfolio/sysadmin-lab-backup-automation
 
   ⚙️ **SysAdmin Bash Maintenance & Monitoring Framework**
